@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nicolasfsr
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning python y javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on al
 
 <!---
 Nicolasfsr/Nicolasfsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
